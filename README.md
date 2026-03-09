@@ -1,5 +1,5 @@
 # Projet_Graph
-BOUJU Jarod S2 A1
+BOUJU Jarod S2 A1 \n
 Theme : **labyrinthe**
 
 
