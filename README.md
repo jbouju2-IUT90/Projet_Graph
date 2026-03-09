@@ -1,4 +1,7 @@
 # Projet_Graph
+BOUJU Jarod S2 A1
+Theme : **labyrinthe**
+
 
 # Concepts :
 Ce projet de graphe consiste à générer un labyrinthe aléatoire. L'utilisateur peut fournir plusieurs paramètres comme la taille du labyrinthe, le point de début et le point de fin.
