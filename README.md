@@ -5,6 +5,7 @@ BOUJU Jarod S2 A1 || Theme : **labyrinthe**
 # Concepts :
 Ce projet de graphe consiste à générer un labyrinthe aléatoire. L'utilisateur peut fournir plusieurs paramètres comme la taille du labyrinthe, le point de début et le point de fin.
 Quand tout est paramétré, on peut donc avoir un affichage d'un chemin qui se dessine entre les deux points entrés par l'utilisateur.
+![Aperçu de mon labyrinthe](image.png)
 
 **Etape 1 : Création du terrain (page ~22 à ~32)**
 Dans un premier temps, j'ai créé une grille pour pouvoir créer les fondations du labyrinthe.
